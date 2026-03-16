@@ -45,3 +45,7 @@ verilens-app/
 │-- app.py
 │-- requirements.txt
 │-- README.md
+
+
+git clone https://github.com/Akshu524/verilens-app.git
+cd verilens-app
