@@ -38,6 +38,10 @@ Users can paste a forwarded message, claim, or article excerpt, and VeriLens wil
 - Transformers pipeline with DistilRoBERTa emotion model
 - NewsAPI
 
+## clone this repo:
+git clone https://github.com/Akshu524/verilens-app.git
+cd verilens-app
+
 ## Project Structure
 
 ```bash
@@ -47,5 +51,4 @@ verilens-app/
 │-- README.md
 
 
-git clone https://github.com/Akshu524/verilens-app.git
-cd verilens-app
+
